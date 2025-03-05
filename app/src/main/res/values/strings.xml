@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SignUpUI</string>
+    <string name="imagen_sign_up" />
+    <string name="boton_facebook" />
+    <string name="boton_twitter" />
+    <string name="boton_linkedin" />
+    <string name="texto_sign_in"><u>Sign In</u></string>
+</resources>
